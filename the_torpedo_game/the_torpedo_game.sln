@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the_torpedo_game.CSharp.Plugins", "the_torpedo_game.CSharp.Plugins.csproj", "{FD9A243E-DC55-B138-87BF-1061CF2F25A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the_torpedo_game.CSharp", "the_torpedo_game.CSharp.csproj", "{1DACF589-E703-8406-687A-F19CD4D3C8CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the_torpedo_game.CSharp.Editor", "the_torpedo_game.CSharp.Editor.csproj", "{493E94A0-DA33-B3AF-6502-E9A57B00BA4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9A243E-DC55-B138-87BF-1061CF2F25A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9A243E-DC55-B138-87BF-1061CF2F25A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9A243E-DC55-B138-87BF-1061CF2F25A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9A243E-DC55-B138-87BF-1061CF2F25A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DACF589-E703-8406-687A-F19CD4D3C8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DACF589-E703-8406-687A-F19CD4D3C8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DACF589-E703-8406-687A-F19CD4D3C8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DACF589-E703-8406-687A-F19CD4D3C8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493E94A0-DA33-B3AF-6502-E9A57B00BA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493E94A0-DA33-B3AF-6502-E9A57B00BA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493E94A0-DA33-B3AF-6502-E9A57B00BA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493E94A0-DA33-B3AF-6502-E9A57B00BA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
